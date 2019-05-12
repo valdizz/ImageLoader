@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Loader</string>
+    <string name="action_settings">Settings</string>
+    <string name="loaded_image">Loaded Image</string>
+    <string name="image_loader_service">Image loader service</string>
+    <string name="msg_download_start">Download in progress</string>
+    <string name="msg_download_complete">Download complete</string>
+</resources>
